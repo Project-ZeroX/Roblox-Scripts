@@ -1,1 +1,2 @@
-ProjectZeroX.VersionData = "1.0"
+ProjectZeroXChecker = {}
+ProjectZeroXChecker.VersionData = "1.0"
