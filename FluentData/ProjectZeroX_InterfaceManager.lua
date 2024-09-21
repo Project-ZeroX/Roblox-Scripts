@@ -1,7 +1,7 @@
 local InterfaceManager = {} do
 	InterfaceManager.Folder = "ProjectZeroXSettings"
     InterfaceManager.Settings = {
-        Theme = "Darker",
+        Theme = "Crimson",
         Acrylic = true,
         Transparency = true,
         MenuKeybind = "End"
